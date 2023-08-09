@@ -112,6 +112,10 @@ span {
   margin-left: 12px;
 }
 
+span:hover {
+  color: #555358;
+}
+
 .minimal {
   font-size: 20px;
   border: 0;
